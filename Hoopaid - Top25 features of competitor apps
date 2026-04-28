@@ -1,0 +1,43 @@
+Hoopaid - Top25 features of competitor apps
+
+To build the "Greatest of All Apps" (GOAT), you need to combine the seamless UX of Splitwise, the offline reliability of Splid, the granular control of Tab, and the fintech innovation of Cino.
+Here is the consolidated list of the top 25 must-have features, categorized by their primary function in the user journey.
+## The "Gold Standard" Core Features
+These are the non-negotiables that define the current market leaders.
+
+   1. Flexible Split Methods: Support for equal splits, unequal amounts, percentages, and "shares" (e.g., User A pays for 2 people).
+   2. Debt Simplification: An algorithm that minimizes the total number of transactions (e.g., A owes B, B owes C $\rightarrow$ A pays C directly).
+   3. Multi-Currency Support: Allow diverse currencies in a single group with real-time (or custom) exchange rate conversion.
+   4. Offline Functionality: Allow users to add expenses without data; sync automatically when back online (The "Killer Feature" of Splid).
+   5. Recurring Expenses: Auto-add bills for rent, Netflix, or utilities on a set schedule.
+   6. Cross-Platform Sync: Real-time updates across iOS, Android, and Web browsers.
+   7. Expense Categorization: Auto-tag expenses (Groceries, Transport, etc.) for better analytics.
+   8. Activity Log & Restore: A transparent history of who added/edited what, with an "Undo" button for accidental deletions.
+   9. Export Capabilities: Generate PDF summaries or CSV/Excel files for accountants or personal records.
+   10. Integrated Settlement: "Pay" buttons that link directly to Venmo, PayPal, CashApp, or Open Banking APIs.
+
+## Advanced UX & "Magic" Features
+These features solve the specific friction points that annoy users of basic apps.
+
+   1. OCR Receipt Scanning: Snap a photo of a receipt and have AI auto-extract the merchant, date, and total.
+   2. Interactive Itemization: After scanning, allow users to tap specific line items to claim them (The "Killer Feature" of Tab).
+   3. No-Account Guest Access: Allow users to join a group via a link/QR code and add expenses without forcing them to create a full account immediately.
+   4. Virtual Shared Card: A virtual debit card that splits the transaction at the point of sale so no one has to front the money (The "Killer Feature" of Cino).
+   5. "Who Pays Next?" Advice: Instead of settling up with cash, the app suggests who should pay for the next dinner to balance the books naturally.
+   6. Weighted Profiles: Preset modes for "Couples" (who count as 2 shares) or "Families" (who count as 3+), famously used in Settle Up.
+   7. Income & Deposit Tracking: Ability to log money entering the group (e.g., a refund or deposit return) and split that income.
+   8. Comments & Threads: Allow users to discuss specific expenses directly within the transaction entry (e.g., "Why was this Uber $50?").
+
+## Trust, Safety & Retention
+Features that keep users secure and engaged long-term.
+
+   1. Spending Visualizations: Pie charts and trend lines showing personal vs. group spending over time.
+   2. Budget Limits & Alerts: Warn users if a specific category (like "Nightlife") exceeds a set threshold.
+   3. Biometric Security: FaceID/Fingerprint lock for privacy.
+   4. Cloud Storage for Receipts: Store original photos of receipts indefinitely for warranty or tax purposes.
+   5. Smart Reminders: Gentle, customizable push notifications for pending debts (e.g., "Settle up before the end of the month").
+   6. Multiple Group Management: Seamlessly switch between "Roommates," "Italy Trip," and "Partner" without logging out.
+   7. Dark Mode: An often-requested UI feature for battery saving and visual comfort.
+
+Which of these three categories (Core, UX Magic, or Safety) is the biggest priority for your "MVP" (Minimum Viable Product)?
+
